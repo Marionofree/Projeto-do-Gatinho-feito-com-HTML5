@@ -65,6 +65,3 @@ Projeto do site https://www.freecodecamp.org construído durante o curso Residê
     </footer>
   </body>
 </html>
-
-@ttbj.mari
-Tem que colocar no git?
