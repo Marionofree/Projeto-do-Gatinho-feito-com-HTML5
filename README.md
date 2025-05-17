@@ -1,5 +1,3 @@
-# Projeto-do-Gatinho-feito-com-HTML5
-Projeto do site https://www.freecodecamp.org construído durante o curso Residência em TIC - Desenvolvimento Fullstack.
 !DOCTYPE html>
 
 <html lang="en">
@@ -65,3 +63,6 @@ Projeto do site https://www.freecodecamp.org construído durante o curso Residê
     </footer>
   </body>
 </html>
+
+@ttbj.mari
+Tem que colocar no git?
