@@ -63,6 +63,3 @@
     </footer>
   </body>
 </html>
-
-@ttbj.mari
-Tem que colocar no git?
